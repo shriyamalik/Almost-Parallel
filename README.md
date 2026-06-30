@@ -20,12 +20,12 @@ This project does not aim to implement a full JPEG file encoder. Instead, it acc
 
 ## Team Members
 
-| Name          | zID      | Role / Responsibility                                       |
-| ------------- | -------- | ----------------------------------------------------------- |
-| Team Member 1 | zXXXXXXX | Project coordination, report, integration                   |
-| Team Member 2 | zXXXXXXX | CPU baseline and verification                               |
-| Team Member 3 | zXXXXXXX | HLS kernel implementation                                   |
-| Team Member 4 | zXXXXXXX | KV260 deployment, benchmarking, energy/performance analysis |
+| Name            | zID      |
+| --------------- | -------- |
+| Abhishek Poddar | z5581147 |
+| Sakina Huzaifa  | z5400462 |
+| Krishna Mittal  | z5625451 |
+| Shriya Malik    | z5619441 |
 
 ---
 
