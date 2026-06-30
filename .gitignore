@@ -1,0 +1,18 @@
+# Vitis/Vivado generated files
+build/
+.hw/
+.cache/
+.ip_user_files/
+xsim.dir/
+*.jou
+*.log
+*.str
+*.xclbin
+*.bit
+*.ltx
+
+# General
+.DS_Store
+__pycache__/
+*.o
+*.exe
